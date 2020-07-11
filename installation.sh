@@ -5,11 +5,8 @@ apt-get install ruby
 gem install lolcat
 apt-get install toilet
 apt-get install figlet
-apt-get install mpv
+apt-get install php
 cd ..
 cd usr
-cd ..
-cd usr 
 cd etc
 rm -rf motd
-nano bash.bashrc
